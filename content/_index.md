@@ -71,6 +71,8 @@ sections:
           tag: Deep Learning
         - name: Other
           tag: Demo
+      sort_by: 'Date'
+      sort_ascending: false
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
