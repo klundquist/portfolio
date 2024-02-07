@@ -1,15 +1,15 @@
 ---
-title: Predicting California rent prices
-summary: Time series modeling of zip-code level rent in California
+title: Graph generation to identify novel synthesis pathways
+summary: Enzyme and compound properties obtained from PlantCyc and integrated into a graph visualization to identify the shortest synthesis pathways for compounds of interest
 tags:
   - Deep Learning
-date: '2016-04-27T00:00:00Z'
+date: '2022-11-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 # external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ''
   focal_point: Smart
 
 # links:
