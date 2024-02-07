@@ -36,7 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Physics, Chemistry
+    - course: PhD in Physics and Chemistry
       institution: Georgia Institute of Technology
       year: 2019
     - course: MS in Physics
@@ -93,7 +93,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: https://klundquist.github.io/portfolio/#contact
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
