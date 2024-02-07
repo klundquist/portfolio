@@ -214,6 +214,7 @@ sections:
         folders:
           - publication
         exclude_featured: false
+      count: 0
     design:
       columns: '2'
       view: citation
