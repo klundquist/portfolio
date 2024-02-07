@@ -10,4 +10,5 @@ publishDate: '2024-02-07T15:10:16.942292Z'
 publication_types:
 - article-journal
 publication: '*Biophysical Journal*'
+url_source: 'https://doi.org/10.1016/j.bpj.2022.07.027'
 ---

@@ -13,4 +13,5 @@ publication_types:
 - article-journal
 publication: '*Quantitative Models for Microscopic to Macroscopic Biological Macromolecules
   and Tissues*'
+url_source: 'https://link.springer.com/chapter/10.1007/978-3-319-73975-5_1'
 ---

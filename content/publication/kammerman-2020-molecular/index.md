@@ -16,4 +16,5 @@ publishDate: '2024-02-07T15:10:16.911636Z'
 publication_types:
 - article-journal
 publication: '*Mbio*'
+url_source: 'https://doi.org/10.1128/mbio.00949-20'
 ---

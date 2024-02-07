@@ -8,4 +8,5 @@ publishDate: '2024-02-07T15:10:16.890244Z'
 publication_types:
 - article-journal
 publication: '*Biochimica et Biophysica Acta (BBA)-Biomembranes*'
+url_source: 'https://doi.org/10.1016/j.bbamem.2019.07.013'
 ---

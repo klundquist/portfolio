@@ -17,4 +17,5 @@ publishDate: '2024-02-07T15:10:16.877879Z'
 publication_types:
 - article-journal
 publication: '*Journal of Experimental Medicine*'
+url_source: 'https://doi.org/10.1084/jem.20182015'
 ---

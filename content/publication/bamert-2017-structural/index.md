@@ -1,6 +1,6 @@
 ---
 title: Structural basis for substrate selection by the translocation and assembly
-  module of the $β$-barrel assembly machinery
+  module of the β-barrel assembly machinery
 authors:
 - Rebecca S Bamert
 - Karl Lundquist
@@ -18,4 +18,5 @@ publishDate: '2024-02-07T15:10:16.859474Z'
 publication_types:
 - article-journal
 publication: '*Molecular microbiology*'
+url_source: 'https://onlinelibrary.wiley.com/doi/10.1111/mmi.13757'
 ---

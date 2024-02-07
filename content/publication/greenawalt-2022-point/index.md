@@ -12,4 +12,5 @@ publishDate: '2024-02-07T15:10:16.948285Z'
 publication_types:
 - article-journal
 publication: '*Infection and Immunity*'
+url_source: 'https://doi.org/10.1128/iai.00414-22'
 ---

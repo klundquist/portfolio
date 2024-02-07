@@ -11,4 +11,5 @@ publishDate: '2024-02-07T15:10:16.841175Z'
 publication_types:
 - article-journal
 publication: '*Biochimica et Biophysica Acta (BBA)-Biomembranes*'
+url_source: 'https://doi.org/10.1016/j.bbamem.2016.01.020'
 ---

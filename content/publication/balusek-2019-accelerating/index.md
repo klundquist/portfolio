@@ -16,4 +16,5 @@ publishDate: '2024-02-07T15:10:16.884109Z'
 publication_types:
 - article-journal
 publication: '*Journal of chemical theory and computation*'
+url_source: 'https://pubs.acs.org/doi/abs/10.1021/acs.jctc.9b00160'
 ---

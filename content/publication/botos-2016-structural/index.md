@@ -16,4 +16,5 @@ publishDate: '2024-02-07T15:10:16.853199Z'
 publication_types:
 - article-journal
 publication: '*Structure*'
+url_source: 'https://doi.org/10.1016/j.str.2016.03.026'
 ---

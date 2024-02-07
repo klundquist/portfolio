@@ -11,4 +11,5 @@ publishDate: '2024-02-07T15:10:16.847203Z'
 publication_types:
 - article-journal
 publication: '*Biochemistry and molecular biology education*'
+url_source: 'https://doi.org/10.1002/bmb.20940'
 ---
