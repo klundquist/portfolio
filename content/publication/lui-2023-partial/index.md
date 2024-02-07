@@ -18,4 +18,5 @@ publishDate: '2024-02-07T15:10:16.954344Z'
 publication_types:
 - article-journal
 publication: '*Journal of Experimental Medicine*'
+url_source: 'https://rupress.org/jem/article/221/1/e20230927/276408/A-partial-human-LCK-defect-causes-a-T-cell'
 ---
