@@ -42,14 +42,14 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+  # - block: skills
+  #   content:
+  #     title: Skills
+  #     text: ''
+  #     # Choose a user to display skills from (a folder name within `content/authors/`)
+  #     username: admin
+  #   design:
+  #     columns: '1'
   - block: experience
     content:
       title: Experience
@@ -62,27 +62,22 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Bioinformatics Data Scientist
+          company: Merck (EMD Serono)
+          company_url: http://www.emdserono.com/
+          company_logo: ''
+          location: ''
+          date_start: '2023-05-29'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Performed text mining and time-series analysis to identify high-interest genes for drug target prioritization pipeline
+        - title: Data Scientist
+          company: Cibus (Calyxt)
+          company_url: https://www.cibus.com/
+          company_logo: ''
+          location: Minneapolis
+          date_start: '2022-05-01'
+          date_end: '2023-01-31'
+          description: Developed ML models to predict rearrangement of genetic elements that maximizes production of rare compounds in plants
     design:
       columns: '2'
   - block: accomplishments
