@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Predicting California rent prices
+summary: Time series modeling of zip-code level rent in California
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
