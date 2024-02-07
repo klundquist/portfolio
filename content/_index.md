@@ -205,15 +205,12 @@ sections:
   #     view: card
   - block: collection
     content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: Publications
+      text: ''
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation
@@ -237,11 +234,10 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Feel free to reach out to connect!
+      text: 
       # Contact (add or remove contact options as necessary)
       email: klundquist@gmail.com
-      phone: 989 486 4858
+      phone: (989) 486-4858
       # appointment_url: ''
       # address:
       #   street: 450 Serra Mall
