@@ -1,5 +1,5 @@
 ---
-title: Diverse protein-folding pathways and functions of $β$-hairpins and $β$-sheets
+title: Diverse protein-folding pathways and functions of β-hairpins and β-sheets
 authors:
 - Curtis Balusek
 - Hyea Hwang
