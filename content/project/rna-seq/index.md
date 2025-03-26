@@ -1,5 +1,5 @@
 ---
-title: DLBCL Survival Analysis: RNA-seq Insights from TCGA-DLBC
+title: DLBCL Survival Analysis - RNA-seq Insights from TCGA-DLBC
 summary: Differential gene expression and pathway analysis of DLBCL patients using RNA-seq data from TCGA to identify molecular markers linked to survival.
 tags:
   - Bioinformatics
