@@ -27,6 +27,7 @@ links:
 url_pdf: ''
 url_slides: ''
 url_video: ''
+---
 
 ## Project Overview
 
