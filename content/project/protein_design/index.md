@@ -18,9 +18,8 @@ image:
 links:
   - icon: github
     icon_pack: fab
-    name: Repository
+    name: Code
     url: https://github.com/Abelgurung/molecule_master
-url_code: 'https://github.com/Abelgurung/molecule_master'
 url_pdf: ''
 url_slides: ''
 url_video: ''
