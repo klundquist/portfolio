@@ -1,6 +1,6 @@
 ---
-title: SARS-CoV-2 Variant Analysis - A Bioinformatics Pipeline with Advanced NGS Techniques
-summary: Implementation of a scalable and reproducible bioinformatics pipeline for SARS-CoV-2 variant analysis using advanced NGS techniques, containerization, and workflow automation to support viral genomic surveillance.
+title: SARS-CoV-2 Variant Analysis - NGS Bioinformatics Pipeline
+summary: Implementation of a scalable and reproducible bioinformatics pipeline for SARS-CoV-2 variant analysis using NGS techniques, containerization, and workflow automation to support viral genomic surveillance.
 tags:
   - Bioinformatics
   - Genomics
@@ -10,7 +10,7 @@ tags:
   - Docker
   - Snakemake
   - SARS-CoV-2
-date: '2025-03-26T00:00:00Z'
+date: '2025-03-24T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
