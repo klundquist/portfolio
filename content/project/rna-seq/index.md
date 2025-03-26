@@ -51,20 +51,20 @@ The analysis was conducted using R/Bioconductor, with the following key steps:
 ![MA Plot showing expression changes](ma_plot.png)  
 *Figure 1: MA Plot (Mean-Average plot) showing gene expression changes between deceased and surviving patients. The x-axis shows the average expression level of each gene across all samples (log10 scale). The y-axis shows the fold change between conditions (log2 scale), where positive values indicate higher expression in deceased patients and negative values indicate higher expression in surviving patients. Red points indicate statistically significant changes (adjusted p-value < 0.05).*
 
-![Volcano plot of differential expression](results/figures/enhanced_volcano.png)  
+![Volcano plot of differential expression](enhanced_volcano.png)  
 *Figure 2: Volcano plot highlighting significantly differentially expressed genes between deceased and surviving patients. Key genes are labeled.*
 
 ### 2. Top Differentially Expressed Genes
 
-![Heatmap of top differential genes](results/figures/enhanced_heatmap.png)  
+![Heatmap of top differential genes](enhanced_heatmap.png)  
 *Figure 3: Hierarchical clustering of the top 30 differentially expressed genes, showing distinct expression patterns between survival groups.*
 
-![Expression of top genes](results/figures/top_genes_boxplot.png)  
+![Expression of top genes](top_genes_boxplot.png)  
 *Figure 4: Expression distribution of the top 6 differentially expressed genes across survival groups.*
 
 ### 3. Pathway Analysis
 
-![GO enrichment analysis](results/figures/enrichment_dotplot.png)  
+![GO enrichment analysis](enrichment_dotplot.png)  
 *Figure 5: Gene Ontology enrichment analysis showing the top enriched biological processes.*
 
 ## Key Findings
