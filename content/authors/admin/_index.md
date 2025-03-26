@@ -29,9 +29,10 @@ bio: I am passionate about leveraging artificial intelligence and machine learni
 
 # Interests to show in About widget
 interests:
-  - Computational Protein Design
-  - Protein Language Models
   - Molecular Dynamics Simulation
+  - Drug Discovery
+  - Computational Protein Design
+
 
 # Education to show in About widget
 education:
@@ -119,13 +120,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-I am passionate about leveraging data analytics and machine learning to tackle complex problems related to human health.
-
-I have a BS and PhD in Physics / Computational Biology and completed a postdoc in structural biology. My past academic work revolved around the use of high-performance computation, simulation, and cryoEM to elucidate the assembly mechanism of bacterial membrane proteins aiding in the development of novel antibiotics. 
-
-In my professional journey I've sought out experiences which draw upon my past scientific work and expertise while working to gain exposure to and embrace the use of modern AI/ML methods to positively impact human health. I gained a firm foundation in AI/ML by completing a Fellowship at the NYC Data Science Academy before beginning a role at Calyxt where I developed several analytic tools to help researchers identify metabolic pathways in plants and optimally deliver genetic material to maximize rare-compound production. In May 2023 I started a new position at EMD Serono in bioinformatics for translational medicine.
-
 I am passionate about leveraging data analytics and machine learning to tackle complex problems related to human health.
 
 I have a BS and PhD in Physics / Computational Biology and completed a postdoc in structural biology. My academic work focused on high-performance computation, simulation, and cryoEM to elucidate the assembly mechanism of bacterial membrane proteins, aiding in the development of novel antibiotics. This research resulted in publications in Nature Communications (2021) and PNAS (2018), where I identified specific protein mechanisms relevant to antimicrobial resistance.
