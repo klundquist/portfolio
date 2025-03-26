@@ -1,5 +1,5 @@
 ---
-title: SARS-CoV-2 Variant Analysis: A Bioinformatics Pipeline with Advanced NGS Techniques
+title: SARS-CoV-2 Variant Analysis - A Bioinformatics Pipeline with Advanced NGS Techniques
 summary: Implementation of a scalable and reproducible bioinformatics pipeline for SARS-CoV-2 variant analysis using advanced NGS techniques, containerization, and workflow automation to support viral genomic surveillance.
 tags:
   - Bioinformatics
