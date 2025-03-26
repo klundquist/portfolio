@@ -19,7 +19,7 @@ links:
   - icon: github
     icon_pack: fab
     name: Code
-    url: https://github.com/Abelgurung/molecule_master
+    url: https://github.com/klundquist/cd20-binder-design
 url_pdf: ''
 url_slides: ''
 url_video: ''
