@@ -92,14 +92,30 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Scientific Consultant
+          company: Metapages (Astera Institute)
+          company_url: https://metapage.io/
+          company_logo: ''
+          location: ''
+          date_start: '2023-08-01'
+          date_end: ''
+          description: |2-
+            * Developing an interactive computational biology platform that enables easy creation and sharing of scientific workflows
+            * Implementing containerized computational environments for reproducible research
+            * Creating modular analysis components for genomics and protein structure analysis
+            * Applying deep learning approaches to protein design challenges
         - title: Bioinformatics Data Scientist
           company: Merck (EMD Serono)
           company_url: http://www.emdserono.com/
           company_logo: ''
           location: ''
           date_start: '2023-05-29'
-          date_end: ''
-          description: Performed text mining and time-series analysis to identify high-interest genes for drug target prioritization pipeline
+          date_end: '2023-07-31'
+          description: |2-
+            * Developed algorithms leveraging ML models to analyze over 30 million publications, clinical trials, and patents
+            * Created text mining and time-series analysis pipelines to identify high-interest genes for drug target prioritization
+            * Built custom web applications for visualizing gene "trendiness" scores to enable efficient decision-making
+            * Implemented NLP methods to extract and analyze drug target information from scientific literature
         - title: Data Scientist
           company: Cibus (Calyxt)
           company_url: https://www.cibus.com/
@@ -107,15 +123,35 @@ sections:
           location: ''
           date_start: '2022-05-01'
           date_end: '2023-01-31'
-          description: Developed ML models to predict rearrangement of genetic elements that maximizes production of rare compounds in plants
+          description: |2-
+            * Developed ML models to predict rearrangement of genetic elements that maximize production of rare compounds in plants
+            * Created analytic tools to help researchers identify metabolic pathways in plants for pharmaceutical manufacturing
+            * Implemented a data processing pipeline for analyzing plant metabolomics datasets
+            * Collaborated with research teams to optimize experimental designs and analyze complex biological data
         - title: Postdoctoral Research Associate
           company: Purdue University
           company_url: http://www.noinajlab.com/
           company_logo: ''
           location: ''
           date_start: '2019-09-01'
-          date_end: ''
-          description: Studied membrane protein assembly with cryoEM, biochemical assays and molecular dynamics
+          date_end: '2022-04-30'
+          description: |2-
+            * Elucidated assembly mechanisms of bacterial membrane proteins using cryo-electron microscopy and molecular dynamics
+            * Published findings in Nature Communications (2021) and PNAS (2018) on protein mechanisms relevant to antimicrobial resistance
+            * Developed high-performance computational simulations to study membrane protein-lipid interactions
+            * Identified potential targets for novel antibiotic development through structural and functional analysis
+        - title: PhD Candidate - Computational Biophysics
+          company: Georgia Institute of Technology
+          company_url: https://www.gatech.edu/
+          company_logo: ''
+          location: ''
+          date_start: '2013-08-01'
+          date_end: '2019-08-31'
+          description: |2-
+            * Conducted research on bacterial outer membrane protein assembly using computational methods
+            * Developed novel approaches to analyze protein-lipid interactions in complex membrane environments
+            * Performed large-scale molecular dynamics simulations on high-performance computing clusters
+            * Published multiple peer-reviewed papers on membrane protein folding and assembly
     design:
       columns: '2'
   # - block: accomplishments
